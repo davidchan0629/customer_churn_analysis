@@ -2,6 +2,8 @@
 
 We have an dataset of the telecom company's customer and we would like to perform data analysis on our customer to see their behaviour. After that, we will give out recommendation and train a machine learning model from our existing dataset to predict whether our customer will leave our phone plan which we can take action beforehand.
 
+For details, please go through the **churn_prediction.ipynb** jupyter notebook written in Python for the analysis and the training of the machine learning model.
+
 ---
 # Dataset description
 | Column Name    	| Column Type 	| Description 	|
